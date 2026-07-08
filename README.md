@@ -1,0 +1,2 @@
+# Ps5-Spotify-online-status-integration-workaround-test
+The ps4 had a feature that displayed the song you're listening to as your online status, Because companies like Sony become soulless and money driven with success, they gut these features to save on server space. (rip playstation communities as well🙏) I am experimenting with my rooted ps5, to attempt to get online without bricking my console. 
